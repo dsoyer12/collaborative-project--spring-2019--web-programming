@@ -6,6 +6,7 @@
 ## Instructions
 In collaboration with your assigned project partner, create an interactive, single- or multi-user, browser-specific project using your computer’s webcam, microphone, and mouse as input, and the screen and speakers as output. In addition to HTML and CSS (via Sass), use Gulp as your task runner and P5.js as the primary interactive JavaScript tool. The topic of your project may be one or more of politics, art, consumerism, capitalism, animal rights, human rights, etc.
 
+---
 
 ## Pairs
 * Malik Zeryab and Djourn Gordon-Taylor
@@ -13,12 +14,15 @@ In collaboration with your assigned project partner, create an interactive, sing
 * Catherine Lu and Fabio Silva
 * Escarleth Fernandez and Salvador Muñoz-Castillo
 
+---
 
 ## Before You Begin
 1. Log in to GitHub.
 2. Fork this repo(sitory). See [this video](http://code-warrior.github.io/tutorials/git/github/forking-and-cloning-at-the-github-web-site/) on how to carry out this step and step `3`.
 3. Clone your fork, using either the web site or the GitHub Desktop client.
 4. Checkout your personalized branch, the one with your name and GitHub user handle.
+
+---
 
 ## Automated Workflow
 You must use Gulp to develop this project, and you will need to implement two work flows: development and production. The development work flow must be invoked by typing `gulp` and should carry out common development tasks on HTML, Sass, and JavaScript, including browser refreshing.
@@ -32,6 +36,8 @@ For both work flows, running `npm i` must install the required Gulp modules.
 
 See a [Gulp Template for HTML, CSS, Sass, and JavaScript](https://github.com/code-warrior/gulp-template-for-html-css-sass-js) for ideas, and also look at the various Gulp tutorials we’ve covered in class.
 
+---
+
 ## Rules
 * Running `gulp` must invoke the development work flow of this project.
 * Running `gulp build` must invoke the production work flow of this project.
@@ -42,11 +48,17 @@ See a [Gulp Template for HTML, CSS, Sass, and JavaScript](https://github.com/cod
 * Your JavaScript should validate against the `linter-eslint` Atom package. (Install [this file](https://gist.github.com/code-warrior/c6f1b02730b6a7d08c241f5bf1b62258) as `.eslintrc.json` in your home directory.)
 * Your Sass should validate against the `linter-sass-lint` Atom package. (Install [this file](https://github.com/code-warrior/web-dev-env-config-files/blob/master/sass/.sass-lint.yml) as `.sass-lint.yml` in your home directory.)
 
+---
+
 ## iArt Mix Exhibition
 Although this project is due a week after the iARTMix show, which takes place on 1 May, consider getting it done a week early for inclusion in the show.
 
+---
+
 ## Due
 10:00 AM on Tuesday, 7 May 2019.
+
+---
 
 ## Submission
 You will need to issue a pull request back into the original repo, the one from which your fork was created. See the **Issuing Pull Requests** section of [this site](http://code-warrior.github.io/tutorials/git/github/index.html) for help on how to submit your assignment.
