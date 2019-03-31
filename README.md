@@ -6,6 +6,14 @@
 ## Instructions
 In collaboration with your assigned project partner, create an interactive, single- or multi-user, browser-specific project using your computer’s webcam, microphone, and mouse as input, and the screen and speakers as output. In addition to HTML and CSS (via Sass), use Gulp as your task runner and P5.js as the primary interactive JavaScript tool. The topic of your project may be one or more of politics, art, consumerism, capitalism, animal rights, human rights, etc.
 
+
+## Pairs
+* Malik Zeryab and Djourn Gordon-Taylor
+* Paige McAllister and Chris Lam
+* Catherine Lu and Fabio Silva
+* Escarleth Fernandez and Salvador Muñoz-Castillo
+
+
 ## Before You Begin
 1. Log in to GitHub.
 2. Fork this repo(sitory). See [this video](http://code-warrior.github.io/tutorials/git/github/forking-and-cloning-at-the-github-web-site/) on how to carry out this step and step `3`.
